@@ -20,6 +20,12 @@ export class Home extends React.Component {
                 <h1 style={{ marginLeft: 700 }}>
                     Ready For the New Season!
                      </h1>
+                     {
+                         //Note**
+                         //You may have to zoom the screen in or out to adjust
+                         //in order to make the page fit the screen
+                         //apologies for this
+                     }
                 <br></br>
                 {
                     //i made a table just to format the page a bit neater than it would have
